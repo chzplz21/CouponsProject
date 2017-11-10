@@ -1,0 +1,27 @@
+#theForm {
+	border: solid black;
+	width: 80%;
+	height: auto;
+}
+
+.box {
+	height: 200px;
+ width: 200px;
+ display: inline-block;	
+ margin-right: 30px;
+ margin-bottom: 30px;
+  vertical-align: top;
+  border: solid black;
+     background-size: cover;
+	   background-position: center; 
+	
+}
+
+
+input {
+	
+}
+
+.none {
+	display: none;
+}
